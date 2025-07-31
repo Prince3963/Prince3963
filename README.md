@@ -10,7 +10,6 @@
 
 ### * Currently Learning
 - Web development fundamentals
-- React basics
 - How to contribute to open-source projects
 
 ### 👨‍💻 All My Projects Are Available At
@@ -41,6 +40,18 @@
   <img src="https://img.shields.io/badge/ThunderClient-6C63FF?style=for-the-badge&logo=thunder-client&logoColor=white" />
 </p>
 
+💼 Experience
+Web Development Intern
+🗓️ June 2025 – July 2025
+🏢 Your Company Name (Remote)
+
+🔧 Worked on:
+
+Developed frontend using React, Tailwind CSS, and JavaScript [(Frontend Repo)](https://github.com/Prince3963/eBazzar)
+
+Built backend APIs using C# and .NET Core [(Backend Repo)](https://github.com/Prince3963/eBazzar-Backend)
+
+Collaborated with team via GitHub and tested APIs using Thunder Client
 
 
 ---
