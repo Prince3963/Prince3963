@@ -4,13 +4,13 @@
 ---
 
 ### 🔭 Currently Working On
-- Learning **HTML**, **CSS**, and **JavaScript**
+- Learning **HTML**, **Tailwind**, and **JavaScript**
 - Building my first **portfolio website**
 - Understanding **Git** and **GitHub**
 
 ### 🌱 Currently Learning
 - Web development fundamentals
-- Python basics
+- React basics
 - How to contribute to open-source projects
 
 ### 👨‍💻 All My Projects Are Available At
@@ -18,32 +18,39 @@
 
 ### 📫 How to Reach Me
 - 📧 Gmail: `your.email@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Replace this with your actual LinkedIn link -->
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/princerpatel3963) 
 
 ### ⚡ Fun Fact
 - I love **tech**, **memes**, and learning something **new every day**!
 
 ---
 
-### 🛠️ Languages and Tools I’m Learning
+### 🛠️ Languages and Tools I’m 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThunderClient-6C63FF?style=for-the-badge&logo=thunder-client&logoColor=white" />
 </p>
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3963&layout=compact&theme=radical" width="48%" />
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" alt="Prince's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3963&layout=compact&theme=radical" alt="Prince's Top Languages" height="180px" />
+</div>
+
 
 ---
 
