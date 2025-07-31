@@ -3,12 +3,12 @@
 
 ---
 
-### 🔭 Currently Working On
+### * Currently Working On
 - Learning **HTML**, **Tailwind**, and **JavaScript**
 - Building my first **portfolio website**
 - Understanding **Git** and **GitHub**
 
-### 🌱 Currently Learning
+### * Currently Learning
 - Web development fundamentals
 - React basics
 - How to contribute to open-source projects
@@ -17,11 +17,14 @@
 - 🔗 [GitHub Repositories](https://github.com/Prince3963?tab=repositories)
 
 ### 📫 How to Reach Me
-- 📧 Gmail: `your.email@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/princerpatel3963) 
+- 📧 Gmail: [princepatel3963@gmail.com](mailto:princepatel3963@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/princerpatel3963](https://www.linkedin.com/in/princerpatel3963)
+- 🌐 Portfolio: [prince-patel-nu.vercel.app](https://prince-patel-nu.vercel.app/)
+
 
 ### ⚡ Fun Fact
 - I love **tech**, **memes**, and learning something **new every day**!
+- I also create my bachelors projects in **android studio** so also i have some basic experience 
 
 ---
 
@@ -44,14 +47,11 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" alt="Prince's GitHub Stats" height="180px" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" alt="Prince's GitHub Stats" height="180px" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3963&layout=compact&theme=radical" alt="Prince's Top Languages" height="180px" />
 </div>
 
 
 ---
 
-_💡 Pro tip: Keep updating this README as you learn and build more projects!_
