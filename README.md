@@ -64,10 +64,11 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" alt="Prince's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3963&layout=compact&theme=radical" alt="Prince's Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3963&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
@@ -76,6 +77,7 @@
 <p align="center">
   <img src="https://github.com/Prince3963/Prince3963/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
