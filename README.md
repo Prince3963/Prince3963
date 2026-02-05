@@ -3,51 +3,51 @@
 
 ---
 
-### 🚀 Currently Working On
+### Currently Working On
 - Learning **HTML**, **Tailwind CSS**, and **JavaScript**
 - Building my first **portfolio website**
 - Understanding **Git** and **GitHub**
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 - Web development fundamentals
 - How to contribute to open-source projects
 
 ---
 
-### 👨‍💻 All My Projects Are Available At  
+### All My Projects Are Available At  
 🔗 [GitHub Repositories](https://github.com/Prince3963?tab=repositories)
 
 ---
 
-### 📫 How to Reach Me  
+### How to Reach Me  
 - 📧 Gmail: [princepatel3963@gmail.com](mailto:princepatel3963@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/princerpatel3963](https://www.linkedin.com/in/princerpatel3963)  
 - 🌐 Portfolio: [prince-patel-nu.vercel.app](https://prince-patel-nu.vercel.app/)
 
 ---
 
-### ⚡ Fun Facts  
+### Fun Facts  
 - I love **tech**, **memes**, and learning something **new every day**!  
 - I also create my bachelor’s projects in **Android Studio**, so I have some basic Android development experience.
 
 ---
 
-### 💼 Experience  
+### Experience  
 
 **Web Development Intern**  
 🗓️ June 2025 – November 2025 (6 Months)  
 🏢 Tribase Solution (Remote)  
 
-🔧 Worked on:  
+### Worked on:  
 - Developed frontend using **React**, **Tailwind CSS**, and **JavaScript** ([Frontend Repo](https://github.com/Prince3963/ebazzar))  
 - Built backend APIs using **C#** and **.NET Core** ([Backend Repo](https://github.com/Prince3963/eBazzar-Backend))  
 - Collaborated with team via **GitHub** and tested APIs using **Thunder Client**
 
 ---
 
-### 🛠️ Languages and Tools I’m Learning
+### Languages and Tools I’m Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prince3963&show_icons=true&theme=radical" alt="Prince's GitHub Stats" width="48%" />
@@ -71,10 +71,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Prince3963/Prince3963/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
